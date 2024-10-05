@@ -1,0 +1,1 @@
+export const url = 'https://kenyify-backend.onrender.com/';
